@@ -24,7 +24,7 @@ Para informações curriculares e contato, acesse: [![Linkedin Badge](https://im
 
 ![Felipe Nascimento stats](https://github-readme-stats.vercel.app/api?username=flpnascto&show_icons=true&theme=dark&title_color=008080&icon_color=008080&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpnascto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpnascto&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/flpnascto)
 
