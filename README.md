@@ -1,5 +1,5 @@
 ## 👋 E aih, me chamo Felipe Nascimento;
-### Sou pessoa instrutora de desenvolvimento web na Trybe.
+### Estou a procura de novas oportunidades.
 
 Desenvolver pessoas, contribuir com a sociedade e trasnformar positivamente vidas através da tecnologia.
 
