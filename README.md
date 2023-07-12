@@ -26,6 +26,6 @@ Para informações curriculares e contato, acesse: [![Linkedin Badge](https://im
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpnascto&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/flpnascto)
+![Profile views](https://komarev.com/ghpvc/?username=flpnascto&style=for-the-badge)
 
 :construction: Ainda trabalhando nesta página ...
