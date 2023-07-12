@@ -22,7 +22,7 @@ Para informações curriculares e contato, acesse: [![Linkedin Badge](https://im
 | :ring: | **Accessories** |
 | | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=git&logoColor=white&logoWidth=20) ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=git&logoColor=white&logoWidth=20)
 
-![Felipe Nascimento stats](https://github-readme-stats.vercel.app/api?username=flpnascto&show_icons=true&theme=dark&title_color=008080&icon_color=008080&count_private=true)
+![Felipe Nascimento stats](https://github-readme-stats.vercel.app/api?username=flpnascto&show_icons=true&theme=dark&title_color=008080&icon_color=008080&include_all_commits=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flpnascto&layout=compact&langs_count=6&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
