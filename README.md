@@ -5,6 +5,8 @@ Desenvolver pessoas, contribuir com a sociedade e trasnformar positivamente vida
 
 Para informações curriculares e contato, acesse: [![Linkedin Badge](https://img.shields.io/badge/-Felipe_Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fnascto/)](https://www.linkedin.com/in/fnascto/) [![Gmail Badge](https://img.shields.io/badge/-flpnascto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flpnascto@gmail.com)](mailto:flpnascto@gmail.com)
 
+[![wakatime](https://wakatime.com/badge/user/cdbf54c2-e824-41ab-a7b5-4ce2f025d13c.svg)](https://wakatime.com/@cdbf54c2-e824-41ab-a7b5-4ce2f025d13c)
+
 | :scroll: | Character Sheet |
 --- | ---
 | Character | Desenvolvedor de Software |
